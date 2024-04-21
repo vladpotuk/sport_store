@@ -21,6 +21,7 @@ CREATE TABLE EmployeeArchive (
 );
 GO
 
+
 -- Creating the Employees table
 CREATE TABLE Employees (
     EmployeeID INT PRIMARY KEY IDENTITY(1,1),
